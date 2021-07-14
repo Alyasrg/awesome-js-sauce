@@ -1,2 +1,3 @@
 # awesome-js-sauce
-An awesome framework for making crap websites
+An awesome framework for making crap websites.
+lorem ipsum
